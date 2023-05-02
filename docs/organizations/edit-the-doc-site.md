@@ -1,5 +1,5 @@
 ---
-title: "Edit the Doc Site"
+title: "Well come to my home 🏡 "
 path: "/organizations/edit-the-doc-site.html"
 id: "organizations/edit-the-doc-site"
 ---
